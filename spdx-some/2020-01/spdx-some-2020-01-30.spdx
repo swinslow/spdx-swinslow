@@ -1,0 +1,492 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_spdx-some-2020-01-30.zip_1580431333.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-31T00:42:13Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: spdx-some-2020-01-30.zip
+PackageFileName: spdx-some-2020-01-30.zip
+SPDXID: SPDXRef-upload2137
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 6624d9def6338592a7234999fa63abf08bac2216
+PackageChecksum: SHA1: 3e28502eb18a8f3e6bccfd35ab67d86b6b10468b
+PackageChecksum: MD5: f983ee58eec3f7fb8d555b5745aca204
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2137
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: testrepo/file2.txt
+SPDXID: SPDXRef-item8205660
+FileChecksum: SHA1: 67f8fdc9e6c3b65d28a3fc9419b22aaa9e7ff958
+FileChecksum: MD5: 4349cfeff8e2eb74dffc369bb5fd084e
+LicenseConcluded: Sleepycat
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testrepo/xyz/something.txt
+SPDXID: SPDXRef-item8205669
+FileChecksum: SHA1: 5bf1fd927dfb8679496a2e6cf00cbe50c1c87145
+FileChecksum: MD5: 6f1ed002ab5595859014ebf0951522d9
+LicenseConcluded: Sleepycat
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: gomodspdx/.gitignore
+SPDXID: SPDXRef-item8205657
+FileChecksum: SHA1: d4f366ac908a42c9c85972a7843c090e538bcf3d
+FileChecksum: MD5: caeb070fdb6bc1ccb405ae8fc8924f3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: gomodspdx/go.mod
+SPDXID: SPDXRef-item8205658
+FileChecksum: SHA1: bf4ea360eb22910a9ca220a4ebf33addfa97f5cf
+FileChecksum: MD5: 04d996c6af925418aeb04212d9fc82f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: gomodspdx/main.go
+SPDXID: SPDXRef-item8205654
+FileChecksum: SHA1: 1603cb88c6f1586a91f4bc5e2d3bb0adc717cccf
+FileChecksum: MD5: ee2cfd6b998b86e59336a7f70cd353eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: gomodspdx/parse.go
+SPDXID: SPDXRef-item8205656
+FileChecksum: SHA1: f779251c0084e14659665afe646e20c42cf888a9
+FileChecksum: MD5: 0c69189aa6e8f02efd7cc4fe3390af6f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: scaffold/approving.py
+SPDXID: SPDXRef-item8205646
+FileChecksum: SHA1: 9381bfd76a91cca75f5997f1da4e1952856e68cf
+FileChecksum: MD5: 71bb08ebb9c4d88618c67bf75ccc79da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/clearing.py
+SPDXID: SPDXRef-item8205643
+FileChecksum: SHA1: 9acba3a55222843cc7782b60c19af787b0ac6454
+FileChecksum: MD5: f9e1d19bf1e329d88265ba08e414d538
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/config.py
+SPDXID: SPDXRef-item8205633
+FileChecksum: SHA1: 2f0dbdde37b2934973b83594b3a6e2738e4264d5
+FileChecksum: MD5: 516fdff7c92447a9d1c23074fd5bfe21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/createreports.py
+SPDXID: SPDXRef-item8205627
+FileChecksum: SHA1: 06c2677018748bfb103bb1c954892ebc726d8a52
+FileChecksum: MD5: 196af2a728a6c2bbf060e7a92a10c9fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/datatypes.py
+SPDXID: SPDXRef-item8205625
+FileChecksum: SHA1: 97241392ebc7c78237315682acb823650667d417
+FileChecksum: MD5: ea48beeccae4a194ba8fc1b20bb9f85f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/datefuncs.py
+SPDXID: SPDXRef-item8205652
+FileChecksum: SHA1: 650b5f35bea9e021e6a14ec81163fddbd018d36e
+FileChecksum: MD5: 07d8a7e2d4567cd11b2645313c84c3dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/delivering.py
+SPDXID: SPDXRef-item8205631
+FileChecksum: SHA1: d282001c71ff8cef1b39c5cd9ac59cc86d7227e6
+FileChecksum: MD5: eaa8977a69e5899efd78ff32a9bbef7f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/emailing.py
+SPDXID: SPDXRef-item8205651
+FileChecksum: SHA1: 444e935f9f3d00ee5a2a1a96e5a81e492ac69e0f
+FileChecksum: MD5: 92342e134dc238eb93cc7b1f91dd07e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/findings.py
+SPDXID: SPDXRef-item8205641
+FileChecksum: SHA1: 6e7b476f5a3a1d3cafc3f2a0adc2891965f413f9
+FileChecksum: MD5: b470b7acc7fe5c11c82c71f7212bd8c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/gerrit.py
+SPDXID: SPDXRef-item8205645
+FileChecksum: SHA1: 21948d2581376257d8df8739ad9ac82cc408f9cc
+FileChecksum: MD5: 46410928f2a3fabcf55dfa1e2245054a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/getcode.py
+SPDXID: SPDXRef-item8205647
+FileChecksum: SHA1: 4181194d9ed659ae3ebda4ccc190e0f4071ed1ea
+FileChecksum: MD5: c1f72dac5d61f15244d4ba2307e07878
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/getspdx.py
+SPDXID: SPDXRef-item8205649
+FileChecksum: SHA1: e9a2c4ed28844d72924d85da2683c43f3d013335
+FileChecksum: MD5: c2bb2fa6b9e337d3655fff9d55dcb95c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/github.py
+SPDXID: SPDXRef-item8205638
+FileChecksum: SHA1: 8a59e30695f460191505f8d5286c3c41ffb1aa32
+FileChecksum: MD5: 8e72566a310b7f92eadcefbf60fe61b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/importscan.py
+SPDXID: SPDXRef-item8205632
+FileChecksum: SHA1: c152a5e6107e4f21e475c3b6ed8ecdcf4148d5b3
+FileChecksum: MD5: 02864a807cb3d92d8d5d145d8e939402
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/metrics.py
+SPDXID: SPDXRef-item8205636
+FileChecksum: SHA1: caad26ca4660b0caf816fa522afe1fd554c73c9d
+FileChecksum: MD5: 55ce3f354587cc6958fdf065c5a96a2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/newmonth.py
+SPDXID: SPDXRef-item8205628
+FileChecksum: SHA1: 16be239785c327527c456a03d156861f055822c7
+FileChecksum: MD5: b2b819e56d22852a386e0da1d72d1b23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/repolisting.py
+SPDXID: SPDXRef-item8205639
+FileChecksum: SHA1: 3e2741501425f9d5fa357e819424ab5cb984934f
+FileChecksum: MD5: 5cb2824f59cb58e36f40cf00111dfde2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/runagents.py
+SPDXID: SPDXRef-item8205644
+FileChecksum: SHA1: 1303235d49488f55ef3dc8fe4500410b74ef3a20
+FileChecksum: MD5: a856e9d3bbd5fb7ebaf011d558b5ab25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/runners.py
+SPDXID: SPDXRef-item8205626
+FileChecksum: SHA1: 6d5db8ffe8685ff69802f0ae5ec1d1a0060583a3
+FileChecksum: MD5: a37a09404f46599bb3948bcc1d9aaa7b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/scaffold.py
+SPDXID: SPDXRef-item8205637
+FileChecksum: SHA1: ef9c55ac07246689c6691c36270ce6e1f8c408ba
+FileChecksum: MD5: a80080d5b991df41d486cade8fabf079
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/uploadcode.py
+SPDXID: SPDXRef-item8205629
+FileChecksum: SHA1: e573ee732e112f4d95594abce17655834683867f
+FileChecksum: MD5: 928610906f5fb28f4ddaacd2cec5bb9a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/uploadreport.py
+SPDXID: SPDXRef-item8205630
+FileChecksum: SHA1: f3ea9aafa5247222f13e12a3c47c0fc971ac8ddf
+FileChecksum: MD5: 2b024227612a19d0b2a7ef085ecd9117
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/uploadspdx.py
+SPDXID: SPDXRef-item8205640
+FileChecksum: SHA1: 7eb59cef0f054c6d57c02a7737031ca519337297
+FileChecksum: MD5: 88fbef189b45aa0190d6445a7aa777bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: scaffold/zipcode.py
+SPDXID: SPDXRef-item8205650
+FileChecksum: SHA1: 4cef34eb57d60c4bc21f5b67196c6da6aedc01e7
+FileChecksum: MD5: ba1062d29015fc86c8f60f05aec18347
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Linux Foundation </text>
+ 
+
+##File
+
+FileName: testrepo/def/ghi/test3.txt
+SPDXID: SPDXRef-item8205667
+FileChecksum: SHA1: b6a0c63d53b770aee5615e08ccd1fc4b43a7bb15
+FileChecksum: MD5: ba7666d1d9fe8d3d493656d5e7e3f528
+LicenseConcluded: LicenseRef-Proprietary-1
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testrepo/file1.txt
+SPDXID: SPDXRef-item8205664
+FileChecksum: SHA1: 2b141ff6e12af000c045d5cb05a8ebd2d4e62e41
+FileChecksum: MD5: e243bb39c844b3543a7726576c869caf
+LicenseConcluded: ISC AND LicenseRef-Meta-Wrong-License-Statement
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testrepo/README.md
+SPDXID: SPDXRef-item8205663
+FileChecksum: SHA1: b5303b3849398d2bf4942ecdc4318d735782050b
+FileChecksum: MD5: 78f57b67817d855d723fc29209cf3716
+LicenseConcluded: LicenseRef-Proprietary-2
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: gomodspdx/LICENSE
+SPDXID: SPDXRef-item8205655
+FileChecksum: SHA1: 2b8b815229aa8a61e483fb4ba0588b8b6c491890
+FileChecksum: MD5: 3b83ef96387f14655fc854ddc3c6bd57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: scaffold/templates/findings.html
+SPDXID: SPDXRef-item8205635
+FileChecksum: SHA1: ff4e5ab7c572a47fcc3c2dad88cd311ba8408026
+FileChecksum: MD5: 9ec4f53626816dca940670e57f080672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: scaffold/__init__.py
+SPDXID: SPDXRef-item8205642
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: scaffold/.gitignore
+SPDXID: SPDXRef-item8205648
+FileChecksum: SHA1: 1ea89a1e67eecd373602585d3d4a7b607d0cbb11
+FileChecksum: MD5: ac6ee09c3cc5778c5506384d6a954637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testrepo/abc/hi.txt
+SPDXID: SPDXRef-item8205662
+FileChecksum: SHA1: 22596363b3de40b06f981fb85d82312e8c0ed511
+FileChecksum: MD5: 6f5902ac237024bdd0c176cb93063dc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Meta-Wrong-License-Statement
+LicenseName: Meta-Wrong-License-Statement
+ExtractedText: <text> Meta flag: Indicates an incorrect license statement, typically in package metadata where it differs from the stated license in the source code headers or documentation. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Proprietary-2
+LicenseName: Proprietary and Restricted Notice 2
+ExtractedText: <text> All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited.
+Proprietary and confidential. </text>
+
+LicenseID: LicenseRef-Proprietary-1
+LicenseName: Proprietary and Restricted Notice 1
+ExtractedText: <text> Proprietary information (Restricted)
+For use only by authorized individuals and not for general distribution. </text>
+
