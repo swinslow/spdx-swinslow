@@ -1,0 +1,2252 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_peridot-2020-01-30.zip_1580435633.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-31T01:53:53Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: peridot-2020-01-30.zip
+PackageFileName: peridot-2020-01-30.zip
+SPDXID: SPDXRef-upload2139
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 3ac5eb6f802079d7f532a86aaa60fb90c9b30a2d
+PackageChecksum: SHA1: 531ca24327c230d7fe424a48a4f86f8fb9d4ab5a
+PackageChecksum: MD5: 9ed4d436d05fb0edf0392f1b7461b918
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2139
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: peridot-jobrunner-testing/utils/wait-for-it/LICENSE
+SPDXID: SPDXRef-item8205858
+FileChecksum: SHA1: 42112f340eb62c0e240e5edd889277535b2e512d
+FileChecksum: MD5: 7573215cf3e75a2685793e4f7f029d6a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2016 Giles Hall </text>
+ 
+
+##File
+
+FileName: peridot-jobrunner/utils/wait-for-it/LICENSE
+SPDXID: SPDXRef-item8205887
+FileChecksum: SHA1: 42112f340eb62c0e240e5edd889277535b2e512d
+FileChecksum: MD5: 7573215cf3e75a2685793e4f7f029d6a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2016 Giles Hall </text>
+ 
+
+##File
+
+FileName: peridot-api-testing/utils/wait-for-it/LICENSE
+SPDXID: SPDXRef-item8205820
+FileChecksum: SHA1: 42112f340eb62c0e240e5edd889277535b2e512d
+FileChecksum: MD5: 7573215cf3e75a2685793e4f7f029d6a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2016 Giles Hall </text>
+ 
+
+##File
+
+FileName: peridot-api/utils/wait-for-it/LICENSE
+SPDXID: SPDXRef-item8205765
+FileChecksum: SHA1: 42112f340eb62c0e240e5edd889277535b2e512d
+FileChecksum: MD5: 7573215cf3e75a2685793e4f7f029d6a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2016 Giles Hall </text>
+ 
+
+##File
+
+FileName: peridot-api/docs/tickler.txt
+SPDXID: SPDXRef-item8205774
+FileChecksum: SHA1: 8f9335fe00b80aabc67c617e9d1dc137ae6df5f0
+FileChecksum: MD5: d893bff102211e285d84c24c67202ebb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/docs/oauth-flow.txt
+SPDXID: SPDXRef-item8205775
+FileChecksum: SHA1: 12b4a4ec9178d610a992ba817d0791bf82956087
+FileChecksum: MD5: 077a319db2a620fa5f4f2177c98bd2c0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/docs/api-endpoints.txt
+SPDXID: SPDXRef-item8205776
+FileChecksum: SHA1: ec2f14667b312463163b9511d8d64bc522885add
+FileChecksum: MD5: c152bea76e8e3837bd4932f9ca48d84d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/utils/wait-for-it/LICENSE
+SPDXID: SPDXRef-item8205726
+FileChecksum: SHA1: 42112f340eb62c0e240e5edd889277535b2e512d
+FileChecksum: MD5: 7573215cf3e75a2685793e4f7f029d6a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2016 Giles Hall </text>
+ 
+
+##File
+
+FileName: peridot-api/internal/auth/github.go
+SPDXID: SPDXRef-item8205758
+FileChecksum: SHA1: 7d3ac5c83c5dd79ab14dc5007e546408ef817b40
+FileChecksum: MD5: ec9a017844726f097fab84a88e9e9600
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/main.go
+SPDXID: SPDXRef-item8205761
+FileChecksum: SHA1: 597316eeb74221d59fd3728d4e6e876da2caaa43
+FileChecksum: MD5: dab4cc3f59fee404607f9ded984d8e03
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/internal/auth/token.go
+SPDXID: SPDXRef-item8205760
+FileChecksum: SHA1: 0b52002282b0acce752b2e18f2c001ed7a398f81
+FileChecksum: MD5: fd1c25cca8efd26b6aa51e0e04ccb0a8
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/internal/auth/token_test.go
+SPDXID: SPDXRef-item8205759
+FileChecksum: SHA1: 13bedd8a5555c333b4373e4f2d0a3ab7dc6dd348
+FileChecksum: MD5: 8bab7c05ab93bf591dced24534bd7202
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/.gitignore
+SPDXID: SPDXRef-item8205842
+FileChecksum: SHA1: ba966dfe152be7e3e179803a0d5d358e7fab11a8
+FileChecksum: MD5: 3f176c6d3a7de9794be3c176838cfef2
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/.gitignore
+SPDXID: SPDXRef-item8205941
+FileChecksum: SHA1: ba966dfe152be7e3e179803a0d5d358e7fab11a8
+FileChecksum: MD5: 3f176c6d3a7de9794be3c176838cfef2
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/.gitignore
+SPDXID: SPDXRef-item8205871
+FileChecksum: SHA1: ba966dfe152be7e3e179803a0d5d358e7fab11a8
+FileChecksum: MD5: 3f176c6d3a7de9794be3c176838cfef2
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/test/handlerutils/utils.go
+SPDXID: SPDXRef-item8205769
+FileChecksum: SHA1: fda937752d52b6ab0245f0044fe2d6583bda7341
+FileChecksum: MD5: 5759c096d44999b2e9bcc454d2f5ab21
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_repobranches_test.go
+SPDXID: SPDXRef-item8205779
+FileChecksum: SHA1: d7cf4b4d2e397b74c54b3cd44fa9773375d150d3
+FileChecksum: MD5: c1fd0ef183ab3e3df75b13cf8c58c451
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_hello.go
+SPDXID: SPDXRef-item8205782
+FileChecksum: SHA1: 279f42216c569eb119cbdc394cdebf9ee4f7c4e5
+FileChecksum: MD5: 981b550f8823653872eec23e9c2e8f22
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_admin_test.go
+SPDXID: SPDXRef-item8205780
+FileChecksum: SHA1: 18a9a47a68ca44d42009c3c524c40dc7ef71e843
+FileChecksum: MD5: 85f4c128e1757f085ae777b228714088
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_admin.go
+SPDXID: SPDXRef-item8205784
+FileChecksum: SHA1: 856b21df3fa29c53e5f65f65724bbd0e4394c0df
+FileChecksum: MD5: 825b3072d44a26f959e7f2edfc692806
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_users_test.go
+SPDXID: SPDXRef-item8205783
+FileChecksum: SHA1: 582922f67bbd41d5ff164312d49c0f9e7766503e
+FileChecksum: MD5: 90beff8931a8517790782e48caca7813
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_repobranches.go
+SPDXID: SPDXRef-item8205785
+FileChecksum: SHA1: c0c090ad932971ee7f0652ce6b06991e2cbd7f5c
+FileChecksum: MD5: 22611cdbae187a5801b03b34c3bfefdc
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_subprojects.go
+SPDXID: SPDXRef-item8205789
+FileChecksum: SHA1: 0ef57bf6f14cd88477c769ac30f5095d13cd8dbc
+FileChecksum: MD5: defa4d1dee2173c57a01b4f665013dc9
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_repopulls_test.go
+SPDXID: SPDXRef-item8205787
+FileChecksum: SHA1: 709e86fa155fc225230b73342d4744a8066674a5
+FileChecksum: MD5: 7bd35fd372f6eb1db412981a1e83d19a
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_hello_test.go
+SPDXID: SPDXRef-item8205790
+FileChecksum: SHA1: 5abed6b22a99ce37a5e899c9e664959f29b99780
+FileChecksum: MD5: cea8bbdbe8b927f3de1a8717719f3974
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/env.go
+SPDXID: SPDXRef-item8205793
+FileChecksum: SHA1: 253d07dd0b40571ae7a31635c2adebe15d42f61b
+FileChecksum: MD5: 3b0add19e93a05b3d53de9d35ac806d6
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_projects.go
+SPDXID: SPDXRef-item8205791
+FileChecksum: SHA1: 20d1780cc46a308cd2721995db87278631648e39
+FileChecksum: MD5: 6b7e597186c186be5fda020d99bf96a0
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_repopulls.go
+SPDXID: SPDXRef-item8205794
+FileChecksum: SHA1: eface3ed6f997fb75229ca587a7bacfd75761bd4
+FileChecksum: MD5: 3ceb33ba354a657a7acbbc68a4fc205a
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/middleware.go
+SPDXID: SPDXRef-item8205795
+FileChecksum: SHA1: fd304e318bc0b5b9aa46ac02a88300b96aa43609
+FileChecksum: MD5: f00b24d89a30cdda5ac275cc83c71725
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_users.go
+SPDXID: SPDXRef-item8205796
+FileChecksum: SHA1: 4e7bb3b3bc334549a09950c48b54f7c6c0cdec70
+FileChecksum: MD5: 4f393778e00f913b53fa3b51e111387b
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_repos.go
+SPDXID: SPDXRef-item8205797
+FileChecksum: SHA1: 795bca58978081c4569f9827b213e33f659b05fe
+FileChecksum: MD5: 8607f011113ee2e1034ff6c76deff3c9
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_auth.go
+SPDXID: SPDXRef-item8205801
+FileChecksum: SHA1: 3b57eeebc9e57123cd5e334da3e46f1c2639b972
+FileChecksum: MD5: c7acd97a662150b317bfd0fc1db47b0b
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_repos_test.go
+SPDXID: SPDXRef-item8205798
+FileChecksum: SHA1: 9077af6e4420c4a5558bcdbcf6e6dbe9a3728d3a
+FileChecksum: MD5: f9111682ea2e52925035d61ae2901e41
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_subprojects_test.go
+SPDXID: SPDXRef-item8205800
+FileChecksum: SHA1: 1ca95d766e662ce8eda573a95b7a70ce8d93c609
+FileChecksum: MD5: 81fe6a3e1bda7655e98714310b26132d
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/Dockerfile
+SPDXID: SPDXRef-item8205845
+FileChecksum: SHA1: d2f4bb206e489346b53b3d332ca6f81db5e28cdf
+FileChecksum: MD5: f71f4f32c842d302519f80bb4ed850c1
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/internal/testresult/testresult.go
+SPDXID: SPDXRef-item8205850
+FileChecksum: SHA1: 2a4c266b37a1b4d2b00cd4f43ba44e851cca532d
+FileChecksum: MD5: 79ee5c237283d59e89d67c893979ba7a
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/fixtures/dbsetup.go
+SPDXID: SPDXRef-item8205852
+FileChecksum: SHA1: 22bc384cf57e2698aa2dc7ccc981e8aa5dc2cdcf
+FileChecksum: MD5: 4fb5dbfd54a08e6d36ed3e474688b812
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/fixtures/volumesetup.go
+SPDXID: SPDXRef-item8205853
+FileChecksum: SHA1: 61d86ba2c7355d49a3734e00292717a5a1d4fc1b
+FileChecksum: MD5: 05140ec6db2ea94721df2937110e4f2e
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/test/utils/delete.go
+SPDXID: SPDXRef-item8205862
+FileChecksum: SHA1: 543408f5b4b8ab412a7d10ce484e2824bcb87dd4
+FileChecksum: MD5: b3222364e7c341a9ce2cb4502283271b
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/main.go
+SPDXID: SPDXRef-item8205854
+FileChecksum: SHA1: a271b52e5ac701d58c914c4fab33f918d436e622
+FileChecksum: MD5: 3151c73e482c0e60cb95ac0e41cc4bb3
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/test/utils/post.go
+SPDXID: SPDXRef-item8205863
+FileChecksum: SHA1: 2ea6e050936d688e97bee322919d25f50124fc79
+FileChecksum: MD5: 0350dc0a8d7079b2c42349a68124eaab
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/test/utils/put.go
+SPDXID: SPDXRef-item8205865
+FileChecksum: SHA1: 334260834de3afbfd37b60615030f54ba3e2a1f1
+FileChecksum: MD5: 0ec346891013920f61671777b1635023
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/test/utils/get.go
+SPDXID: SPDXRef-item8205864
+FileChecksum: SHA1: d7cab34294572720b1bc99a221a8975b38b0c49f
+FileChecksum: MD5: 088866a652cc8c7716f186c09a52afcc
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/helpers.go
+SPDXID: SPDXRef-item8205802
+FileChecksum: SHA1: 67cea1ddf73477a82e7a191e1e9e14b053d7f2f2
+FileChecksum: MD5: 4e6a40b0f71a1a56051cf84622a31ea4
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_auth_test.go
+SPDXID: SPDXRef-item8205803
+FileChecksum: SHA1: a5f627c16d480b8f638a5af35f6e14252abde624
+FileChecksum: MD5: 871acd744a478a6d2b7a276dbede26ae
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/mock_env.go
+SPDXID: SPDXRef-item8205805
+FileChecksum: SHA1: 35da53c1b2dd4d1d8c77b47ba18a89ff935431b5
+FileChecksum: MD5: 3fe13436f5fdf0ab85349c61112e9331
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/Makefile
+SPDXID: SPDXRef-item8205810
+FileChecksum: SHA1: e487ef9290f076228e990efacc4f5163809af34d
+FileChecksum: MD5: 75163ecc551226021c4c97c0b89a86ba
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/Makefile
+SPDXID: SPDXRef-item8205847
+FileChecksum: SHA1: e487ef9290f076228e990efacc4f5163809af34d
+FileChecksum: MD5: 75163ecc551226021c4c97c0b89a86ba
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_projects_test.go
+SPDXID: SPDXRef-item8205806
+FileChecksum: SHA1: 8750a9c7aebc4e358279a1519daa1a15dd704637
+FileChecksum: MD5: ee8dbfe5e88738a9b8cf844ac44694aa
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/internal/testresult/testresult.go
+SPDXID: SPDXRef-item8205813
+FileChecksum: SHA1: f84fa131705cafcd6025fb0b7c368966cb7e8cf3
+FileChecksum: MD5: ba76727e1c36da2e42c99c5a1d823696
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/main.go
+SPDXID: SPDXRef-item8205816
+FileChecksum: SHA1: 4802e234b434d472d21363980e17314645d6f5d2
+FileChecksum: MD5: a1eb6197c7f3ea601049b4adb7f4e924
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/utils/delete.go
+SPDXID: SPDXRef-item8205824
+FileChecksum: SHA1: 3d15c6fbd68ee0009a62bf8ce11b9f7980baa489
+FileChecksum: MD5: fca76c7b6a6fa3ba97d0ee1011759ffb
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/utils/post.go
+SPDXID: SPDXRef-item8205825
+FileChecksum: SHA1: 18a040f7cdbb166660cbd6ca9d2ec5167002e202
+FileChecksum: MD5: bc9e3ee7f6a1a19c68c94c90140db94e
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/utils/put.go
+SPDXID: SPDXRef-item8205827
+FileChecksum: SHA1: 219ab19553eb495dbc18f036998c98b9eef52ad9
+FileChecksum: MD5: fccf65ce44b2844dd8226b4e78c4565b
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/utils/get.go
+SPDXID: SPDXRef-item8205826
+FileChecksum: SHA1: acc6e6bf0add782116d6dc1ee76d3c4b5edf3ec5
+FileChecksum: MD5: 3477dfd877c6e22cc29802bf2fa1c557
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/utils/utils.go
+SPDXID: SPDXRef-item8205828
+FileChecksum: SHA1: f094cba7c052cfa70bd77e6adba65c0def8be60b
+FileChecksum: MD5: e22c993ed401c7741187bcab57a8949d
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/hello.go
+SPDXID: SPDXRef-item8205834
+FileChecksum: SHA1: e4d42bc58b6f36319e64a95444235f7ee78f9401
+FileChecksum: MD5: 145c2dafc56ca71ac72829590861ccb3
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/repobranches.go
+SPDXID: SPDXRef-item8205831
+FileChecksum: SHA1: ef513ceabf82c901b86906fce88a1dcf00e01c12
+FileChecksum: MD5: f2eb4e3623ab2ef8027c0e3e471f5b8d
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/repopulls.go
+SPDXID: SPDXRef-item8205830
+FileChecksum: SHA1: c7ccc7a5453fad8ac77e5bc2d26e03a0d2ecc5d9
+FileChecksum: MD5: 8c0acf312b4fd735084d61ba64136980
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/projects.go
+SPDXID: SPDXRef-item8205835
+FileChecksum: SHA1: 770b287df2656e3518bbb60d6acb2b1f4b7abc14
+FileChecksum: MD5: dadafcc1aeecbed2141bc225bbccc666
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/auth.go
+SPDXID: SPDXRef-item8205837
+FileChecksum: SHA1: 601e05b0044a2d5263479f5e442ff09f6972b6c3
+FileChecksum: MD5: e896530a333a497d7c9e1c405296a28a
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/subprojects.go
+SPDXID: SPDXRef-item8205836
+FileChecksum: SHA1: d7094149ae0e1c9b695f3baac0f14fe87f97b40c
+FileChecksum: MD5: cbda9f6e88155c947aaca25f0b3ff4db
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/users.go
+SPDXID: SPDXRef-item8205838
+FileChecksum: SHA1: a666ddae7d74f5b02bd0f10720ae47ca51d5d1a2
+FileChecksum: MD5: 15510c10e0ea2379de5ee92bcc497d1e
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/repos.go
+SPDXID: SPDXRef-item8205839
+FileChecksum: SHA1: dec9a8c057d01dc1addd4556811be040918a83ac
+FileChecksum: MD5: 34420f0ba31c292e77efca0320d76ac8
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/docker-compose.yml
+SPDXID: SPDXRef-item8205843
+FileChecksum: SHA1: 36102c60ca9b89f6edec2c5c07be8bfe62111e1c
+FileChecksum: MD5: 01cbde96bbf93f9793c76069c689ae78
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/.gitignore
+SPDXID: SPDXRef-item8205754
+FileChecksum: SHA1: f73bf3151ab78da3e3b0a687de81f85deea39702
+FileChecksum: MD5: 7dc3b85c3e3b0fc3be14f13c9dce3db0
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/fileinstance_test.go
+SPDXID: SPDXRef-item8205907
+FileChecksum: SHA1: 10a828fc7bc78b064fa3ef627ec64bf7b5ff1e89
+FileChecksum: MD5: 1f2b8e5dad50251a70ebb64c661f6317
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/fileinstance.go
+SPDXID: SPDXRef-item8205906
+FileChecksum: SHA1: 32764704501bc51c54d53a5d151f371d4ced02f3
+FileChecksum: MD5: 29f8dd99a5ce81d2d1e3ad9b6e97a4e9
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/repo.go
+SPDXID: SPDXRef-item8205908
+FileChecksum: SHA1: 7e9b3e1e95704ca4db9bbbe742f1951a14704bd1
+FileChecksum: MD5: ee9c5c795dea743d9f8963d16820cf16
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/subproject_test.go
+SPDXID: SPDXRef-item8205910
+FileChecksum: SHA1: f77fd330c72ffedbd89ace1a8bcac50f263817f9
+FileChecksum: MD5: 40fbf7f21500c1011e2d4812a479b84a
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/spdxelement.go
+SPDXID: SPDXRef-item8205912
+FileChecksum: SHA1: 0b9da9323e175feb1919bfceaa409089cd5b28f9
+FileChecksum: MD5: ef7fe577376b5fc3a763d7f1256bbcf6
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/spdxelement_test.go
+SPDXID: SPDXRef-item8205931
+FileChecksum: SHA1: 0b9da9323e175feb1919bfceaa409089cd5b28f9
+FileChecksum: MD5: ef7fe577376b5fc3a763d7f1256bbcf6
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/spdxelementtype_test.go
+SPDXID: SPDXRef-item8205909
+FileChecksum: SHA1: 11300906aac558f336305fa3309f7fa41f7f969f
+FileChecksum: MD5: 8d05f35b3ef216bddec4033a933b442c
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/jobconfigtype.go
+SPDXID: SPDXRef-item8205913
+FileChecksum: SHA1: 05dae6e5ddaff1a1ecb74e63eac00a8ad66f190c
+FileChecksum: MD5: ef00c00624b291d1b3e253a178ee0028
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/spdxelementtype.go
+SPDXID: SPDXRef-item8205914
+FileChecksum: SHA1: 1525d4fb5426ad7f8f11c3d3b34c7e5163929edb
+FileChecksum: MD5: 092c14da3700256885b52180cfb84e6a
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/user.go
+SPDXID: SPDXRef-item8205917
+FileChecksum: SHA1: e4fea9bd62b8924bbb4a6614978bbe3588184bd2
+FileChecksum: MD5: c1ceb483b012fa878a9016a8b3b48c9a
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/project.go
+SPDXID: SPDXRef-item8205915
+FileChecksum: SHA1: 636275341b2b3c708eb94ce00d685f8c5e359a11
+FileChecksum: MD5: e4caedc8f35f299d76a91af62d7caa17
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/filehash_test.go
+SPDXID: SPDXRef-item8205916
+FileChecksum: SHA1: 8056c3e2c79192981d5eaa76b6cab3ac99d2ce36
+FileChecksum: MD5: ce6c09f00662fd34a7639dc218eb9d34
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/useraccesslevel.go
+SPDXID: SPDXRef-item8205918
+FileChecksum: SHA1: 481eb2c620a125c7f6103aa154498c59672455e5
+FileChecksum: MD5: 085e927081b86031fbef93fa5d4400fd
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/filehash.go
+SPDXID: SPDXRef-item8205919
+FileChecksum: SHA1: 79ab5ecf5f0b7bd37403914dd4a288a31afb8d39
+FileChecksum: MD5: 6bd0e56c9b0eadb7075d3c21726dc0aa
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/repobranch_test.go
+SPDXID: SPDXRef-item8205920
+FileChecksum: SHA1: 2c6cc7f98249189edf3723891b951b3bfc69606e
+FileChecksum: MD5: 8e4d576a1625b28d839d822d7cfe44de
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/subproject.go
+SPDXID: SPDXRef-item8205922
+FileChecksum: SHA1: fd136418054cd2862855ef0f12d0d1aca04bd6d6
+FileChecksum: MD5: 6dac27ce258ec5efe9705bf73cf4ccb5
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/repobranch.go
+SPDXID: SPDXRef-item8205923
+FileChecksum: SHA1: d311bf8469d87e7e11a7283929de8aaad344e6d9
+FileChecksum: MD5: 9ea74b184930bc86784fa55548f7f9e4
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/status.go
+SPDXID: SPDXRef-item8205921
+FileChecksum: SHA1: 403752dafd91ae1c59a106d676382f0ee54c5592
+FileChecksum: MD5: 5fe0dba7d14e81c28530c81c1c6253f4
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/jobconfigtype_test.go
+SPDXID: SPDXRef-item8205927
+FileChecksum: SHA1: 4dce5198fbb65ab1712b3f8760baced8bdade1c9
+FileChecksum: MD5: 20dc710d42f853ed0cf8c00377c445c0
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/project_test.go
+SPDXID: SPDXRef-item8205928
+FileChecksum: SHA1: 97b84534c028ad2f95ecbf486c59daae7fb240c7
+FileChecksum: MD5: 8d14b45de04d23610963a220335c3eb5
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/repo_test.go
+SPDXID: SPDXRef-item8205924
+FileChecksum: SHA1: 91a179ebdb2d21ff1be96f96157f3e9a29624101
+FileChecksum: MD5: 4a4b702923f6e5245ebbe304e654d829
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/status_test.go
+SPDXID: SPDXRef-item8205930
+FileChecksum: SHA1: 3e8086725705c3ed38865a047904b8b259451cd2
+FileChecksum: MD5: 244082c60c460181458d57c8dd9fd6c3
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/user_test.go
+SPDXID: SPDXRef-item8205929
+FileChecksum: SHA1: 24ea499786178c8d3433d4d6e21d592a258a0c4c
+FileChecksum: MD5: 24737e585c3af74f07f747c92e00b4a7
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/useraccesslevel_test.go
+SPDXID: SPDXRef-item8205932
+FileChecksum: SHA1: 5251e01438a1deb6e3fb7efd1ea741ed5011a961
+FileChecksum: MD5: a0791ea6d7748015e264bb787ce120f7
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/agent.go
+SPDXID: SPDXRef-item8205934
+FileChecksum: SHA1: c05cf9d1fe67b05ba10a40b584b557b3429d3b08
+FileChecksum: MD5: 73f00652039ecc25cc86d1e0736f57a8
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/repopull.go
+SPDXID: SPDXRef-item8205933
+FileChecksum: SHA1: f8b6a9cac7cabdb9232849eec02f01453bf66103
+FileChecksum: MD5: 61c0f256abe1ec705b3ebd0118a2ac9f
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/admin.go
+SPDXID: SPDXRef-item8205936
+FileChecksum: SHA1: 6d722acd883d158dc171446e177174d373d1d124
+FileChecksum: MD5: 9d5c601943594539e826088c8520721f
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/agent_test.go
+SPDXID: SPDXRef-item8205935
+FileChecksum: SHA1: 7d52da484e5348a7f40d8757b35d1d8f63e243b7
+FileChecksum: MD5: 58e465966da86e0a574af679226c5c82
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/db.go
+SPDXID: SPDXRef-item8205938
+FileChecksum: SHA1: 424c631134021256b327aa7f95b93e1fbe378287
+FileChecksum: MD5: 65bf97fdc4a4760b3d5498280dae0c9c
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/repopull_test.go
+SPDXID: SPDXRef-item8205939
+FileChecksum: SHA1: 6fa8f0165f1a3f8a605ceb2d3201d45cb957a4a4
+FileChecksum: MD5: fcb12dbec019404ffb8f385928676339
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/.gitignore
+SPDXID: SPDXRef-item8205771
+FileChecksum: SHA1: 85709ab91758567e05756986c984b86101407420
+FileChecksum: MD5: 044ef542d4b77c8d5a6da88f56615c40
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_agents_test.go
+SPDXID: SPDXRef-item8205786
+FileChecksum: SHA1: 91ede0be3aa09e0bb681c8ac2453191aeb89524c
+FileChecksum: MD5: 7683227e1432ff02bae1f3abcab1793a
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers.go
+SPDXID: SPDXRef-item8205792
+FileChecksum: SHA1: e9171fbc2cabeb3c47f9a4b2323be1bd1af1ff05
+FileChecksum: MD5: 32c31152f8608bda971f4528bb6838c6
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_agents.go
+SPDXID: SPDXRef-item8205788
+FileChecksum: SHA1: 669e19e71b154b7c9cfa6e39df15891ce76fb5fa
+FileChecksum: MD5: c0171605eca913c1ce87f0ea7b7ab0f3
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_jobs.go
+SPDXID: SPDXRef-item8205804
+FileChecksum: SHA1: c077fcb342515a1c6638d0b01945f07c97dd01c2
+FileChecksum: MD5: 77dff92ed0500c38c7dd6fd275110828
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/endpoints.go
+SPDXID: SPDXRef-item8205832
+FileChecksum: SHA1: 3f8073662b39fea59ae3b211ad3054c72e5db60d
+FileChecksum: MD5: 03b2fc853f5e6001701b2f72e3e98a02
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/fixtures/dbsetup.go
+SPDXID: SPDXRef-item8205815
+FileChecksum: SHA1: ab48cb62fcf04db0c377e6a738f8d96c66217189
+FileChecksum: MD5: 888dfd03be126332fdbb5d73e8e89442
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/agents.go
+SPDXID: SPDXRef-item8205833
+FileChecksum: SHA1: 948aa2eb6431db92d890adbd4acdb2e36c84834e
+FileChecksum: MD5: 9a5c7f3a4c7157aeee5335c6424dc558
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/test/endpoints/jobs.go
+SPDXID: SPDXRef-item8205840
+FileChecksum: SHA1: 30e3fcd4663885a8fa2b7035411564c62b8587c4
+FileChecksum: MD5: cc2f8128b2c7008583428a32cadd356a
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/tabledefs.go
+SPDXID: SPDXRef-item8205911
+FileChecksum: SHA1: 43d9c7f871a615ce49dab161464a0609de1d5fc9
+FileChecksum: MD5: 669aea3e7c8d80b0fc6d720493c1bfbb
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/idsearcher/main.go
+SPDXID: SPDXRef-item8205730
+FileChecksum: SHA1: 90cb4b21209e31f0aeed38b247ec77624cd169a9
+FileChecksum: MD5: d9a4378d3ca528ccab504046078f01df
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/idsearcher/receiver.go
+SPDXID: SPDXRef-item8205731
+FileChecksum: SHA1: 2475ae8c98f794954c936e6d2ee5c42d85fd7d98
+FileChecksum: MD5: ecd122de6f3fcd2eb185d5457fa36cac
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/idsearcher/idsearcher.go
+SPDXID: SPDXRef-item8205733
+FileChecksum: SHA1: 2f023f13dac482b1f70932ec96b9b5f50e1ebe20
+FileChecksum: MD5: 5c001b9d91853e2653352c63a94ecdb6
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/idsearcher/primary.go
+SPDXID: SPDXRef-item8205734
+FileChecksum: SHA1: 339d08ea0f6b50cf5428900d1949dfe555f283b8
+FileChecksum: MD5: d357941d5ef67ad2b4a35521c88c6400
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/idsearcher/sender.go
+SPDXID: SPDXRef-item8205735
+FileChecksum: SHA1: 6af3e9bcef0b3d8a41d5affa60d58f03067474a7
+FileChecksum: MD5: 378694c7fd65192df27749bca16f4fd4
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/retrieve-github/main.go
+SPDXID: SPDXRef-item8205739
+FileChecksum: SHA1: b57f8827dbc909f8c6e2e5fed70222b2c73414ae
+FileChecksum: MD5: b190970abec2fe02004c134084b13b70
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/retrieve-github/retrieve-github.go
+SPDXID: SPDXRef-item8205738
+FileChecksum: SHA1: 32a065186ab144f5cbf1c3aeb4bf24782e84f4c9
+FileChecksum: MD5: 7c0a2f662a302f52791ef6315374d435
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/retrieve-github/receiver.go
+SPDXID: SPDXRef-item8205740
+FileChecksum: SHA1: 2bb56c61a83adbb615a73f3f17c7a888ef9c056c
+FileChecksum: MD5: 09591b373c3456b51b641b0aae6ad02b
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/retrieve-github/primary.go
+SPDXID: SPDXRef-item8205742
+FileChecksum: SHA1: 2dc87b619e6f0e12f1d0b91ace0835c5fbc6bc38
+FileChecksum: MD5: d9407ed707482c30990151b3733aaf5c
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/nop/main.go
+SPDXID: SPDXRef-item8205746
+FileChecksum: SHA1: abfd6bc4c25f69a271fa3ee01b957157fa9320a8
+FileChecksum: MD5: 0e866179dacdf075b51520f5c3978d3e
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/retrieve-github/sender.go
+SPDXID: SPDXRef-item8205743
+FileChecksum: SHA1: b2df27ad5442665b33eb06749fe9344f79dd2562
+FileChecksum: MD5: 163efaf96b6957d7405137647416da3e
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/nop/receiver.go
+SPDXID: SPDXRef-item8205747
+FileChecksum: SHA1: 9b61a6e8f4fe08b146c3956bcea4618bda41a568
+FileChecksum: MD5: e192a2472ee6645a38219bf02a2593a6
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/nop/nop.go
+SPDXID: SPDXRef-item8205748
+FileChecksum: SHA1: f8c05ba192c411715002eff4ae4f44fceaa66019
+FileChecksum: MD5: d144327e90c15d7ca66d5b31b0edd15e
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/nop/primary.go
+SPDXID: SPDXRef-item8205750
+FileChecksum: SHA1: ec977319cd76f2c782512de054b557e4052a09e4
+FileChecksum: MD5: 93ef211a5a3ab6255d6ec36088cdafe4
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/nop/Dockerfile
+SPDXID: SPDXRef-item8205753
+FileChecksum: SHA1: 7b53395d27fed0a93328c1ceceb8caf9f19a396f
+FileChecksum: MD5: dac6c24b8985735463dcd33277c0fe8c
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/nop/sender.go
+SPDXID: SPDXRef-item8205751
+FileChecksum: SHA1: f54fbd8026c087a13fd7e4ed96a4a4626a3cb05e
+FileChecksum: MD5: 228b95ea7d882a71ab29eb547a870f17
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/Dockerfile
+SPDXID: SPDXRef-item8205808
+FileChecksum: SHA1: 0ba2ffa1e2bfa118d7a2af3345f2b0770c3a8a11
+FileChecksum: MD5: 4065f43de7afbb36c54cdb87967b64d6
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/go.mod
+SPDXID: SPDXRef-item8205807
+FileChecksum: SHA1: 193393f146eefe143f341766c52cef138ff7f86f
+FileChecksum: MD5: 94051440b787ed76fa583b269ec54aee
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/mock_datastore.go
+SPDXID: SPDXRef-item8205799
+FileChecksum: SHA1: b1d061e58bc81cd4310ebca7b5a9200cb14b7902
+FileChecksum: MD5: 27fb0fada20b79ccd25b306b91a19002
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/test/agents/agents.go
+SPDXID: SPDXRef-item8205868
+FileChecksum: SHA1: 606a077e424fbe792b95573e2798bb7d78b4ea07
+FileChecksum: MD5: 2e93787dd13bbd6f5e43b0cdf5bbcd78
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/test/utils/utils.go
+SPDXID: SPDXRef-item8205866
+FileChecksum: SHA1: 53c66a00b54113f9027c0ec43efab61e829c59cd
+FileChecksum: MD5: ab0b7a5efe60199d68cd87192bbda0da
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/test/agents/nop.go
+SPDXID: SPDXRef-item8205869
+FileChecksum: SHA1: ee9d1ff4874fb2e6243bba3e271437ce9f511d15
+FileChecksum: MD5: b0361e1c6d06bb7c6f36488d687f124f
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/docker-compose.yml
+SPDXID: SPDXRef-item8205872
+FileChecksum: SHA1: 377f22a093fe048c5b862e996343858d65b90fb2
+FileChecksum: MD5: a05199c6ef72107799a3ab1e4b6a9bbb
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/Dockerfile
+SPDXID: SPDXRef-item8205874
+FileChecksum: SHA1: b7d5166c2f8895ed64a0ecdd485f3799168c8fbf
+FileChecksum: MD5: 1160c50d18f9af22d0d01d04771a2308
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/internal/jobrunner/jobrunner.go
+SPDXID: SPDXRef-item8205878
+FileChecksum: SHA1: 6bb031c86d4f45fcde61d5fec9da45ef5dfdf1c3
+FileChecksum: MD5: 10b84715fff455426184eeb6d0745346
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/internal/jobrunner/types.go
+SPDXID: SPDXRef-item8205880
+FileChecksum: SHA1: 8740f10652e7a3b6d16ad2ae8b14d83a9e869f22
+FileChecksum: MD5: 6be339510eadf2e84cbe771570aa4c33
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/internal/jobrunner/convert.go
+SPDXID: SPDXRef-item8205879
+FileChecksum: SHA1: b12a179fd2267cdab5a36a28663ce7e395fa59dc
+FileChecksum: MD5: fdd7b9d432defc10d8b7431fbaa2216c
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/pkg/status/status.proto
+SPDXID: SPDXRef-item8205891
+FileChecksum: SHA1: 5ff29c0b7d7972ec9eff2bf6cc7c8b74729af8d1
+FileChecksum: MD5: 758b3d3442eb7ea341bcd0c0f422ed95
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/internal/jobrunner/env.go
+SPDXID: SPDXRef-item8205881
+FileChecksum: SHA1: 52aa8115c97209c36cc95d660cfd7caa673ea570
+FileChecksum: MD5: 9e7b56fc054b803e53baf8a498803bb2
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/main.go
+SPDXID: SPDXRef-item8205883
+FileChecksum: SHA1: 9878f4259b743be9d6a874978e04ca87497ee618
+FileChecksum: MD5: 8a1e00e1f72a58eae6062d66e3fc6e0e
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/internal/jobrunner/runagent.go
+SPDXID: SPDXRef-item8205882
+FileChecksum: SHA1: 36def5977ca6e07c802595e1b04f1e243e65bbcd
+FileChecksum: MD5: 584b7819d6ba952d9e6d44a2b77ff5cc
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/pkg/agent/agent.proto
+SPDXID: SPDXRef-item8205896
+FileChecksum: SHA1: 7ac3cf273937803f324e31d9c9d0c72953c3122b
+FileChecksum: MD5: f8b41c8528c88546fc619bf7713e65d0
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/pkg/status/convert.go
+SPDXID: SPDXRef-item8205893
+FileChecksum: SHA1: 36e73956a63faadfbc4c2aea1d5008f210aab408
+FileChecksum: MD5: 36b57acb87c7cb810c3f86732b91a172
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/build/build-proto.sh
+SPDXID: SPDXRef-item8205899
+FileChecksum: SHA1: 53dc7fd35dc12daa4da102ead7f3ad5237cd7bc1
+FileChecksum: MD5: 4409a8b1c83159d6f7845c9ea8f49d61
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/.gitignore
+SPDXID: SPDXRef-item8205900
+FileChecksum: SHA1: ec470419358355d3aaf6b424e1ca71310864cf82
+FileChecksum: MD5: 577ab37f6412a549f5fd715f51d0fc22
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/Dockerfile
+SPDXID: SPDXRef-item8205902
+FileChecksum: SHA1: f3c7b3c7ae841c279abbee1468f25e7eaa4f29f2
+FileChecksum: MD5: 03bdea67a5d1cfffcda2b3db5e3045df
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/datastore.go
+SPDXID: SPDXRef-item8205925
+FileChecksum: SHA1: 5131e8816202efaadf6327bd7ccd14314d092cf8
+FileChecksum: MD5: 7904453d0de05f7cf6a19fe4de63be9d
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/job.go
+SPDXID: SPDXRef-item8205926
+FileChecksum: SHA1: 0f595c1f8e6368558a12a7d36d23bb1b423a20b4
+FileChecksum: MD5: 9c0903bb779a7611ef429759d39d35bc
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/pkg/datastore/job_test.go
+SPDXID: SPDXRef-item8205937
+FileChecksum: SHA1: f44d9ea51a5e49445990248f12911f9fcc22629d
+FileChecksum: MD5: b170f2e4972ff7c7abb68e3586ff132a
+LicenseConcluded: Apache-2.0 OR GPL-2.0+
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/utils/wait-for-it/README.md
+SPDXID: SPDXRef-item8205725
+FileChecksum: SHA1: 53dec2ab5cd424a378144bd8c5bc5fb5d2e6e0de
+FileChecksum: MD5: 5a3c988165cd34a124e5ee1a04dbbcca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/utils/wait-for-it/wait-for-it.sh
+SPDXID: SPDXRef-item8205727
+FileChecksum: SHA1: 37fec924356b641b0ac4d0a91a73ec7af00982cd
+FileChecksum: MD5: 8c4df7b09e2a25ca3e64acdc4bc58ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/idsearcher/go.sum
+SPDXID: SPDXRef-item8205732
+FileChecksum: SHA1: bf5a13c1403b44361b7367575142b1d2153fe6a2
+FileChecksum: MD5: b450e213020110f82b8a335d673f48e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/idsearcher/go.mod
+SPDXID: SPDXRef-item8205736
+FileChecksum: SHA1: c82daee150c6210364181ccd5f41a61f985e0b90
+FileChecksum: MD5: 8800b54ce4f11c81df3570fb91000165
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/retrieve-github/go.sum
+SPDXID: SPDXRef-item8205741
+FileChecksum: SHA1: 547d3533f26077db1ab4748a0d8ee0698db21d1b
+FileChecksum: MD5: d3d7e52abac532f4d3371d7b8d060e6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/retrieve-github/go.mod
+SPDXID: SPDXRef-item8205744
+FileChecksum: SHA1: 9cd006a3ad4d82ab88462a9fa62c564fab2bddb5
+FileChecksum: MD5: bc6e825c8790e2afca13aa9770898e5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/nop/go.sum
+SPDXID: SPDXRef-item8205749
+FileChecksum: SHA1: 6918bd3058b177c807c0e744d725503c0095c28a
+FileChecksum: MD5: b32abcb51ffc9380133e7f703081113d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-agents/pkg/nop/go.mod
+SPDXID: SPDXRef-item8205752
+FileChecksum: SHA1: 0ab80e238e0297f129bd314a8e43c60b7363c4fa
+FileChecksum: MD5: 211c28f64fe0bfaa16c4031464233312
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/utils/wait-for-it/README.md
+SPDXID: SPDXRef-item8205764
+FileChecksum: SHA1: 53dec2ab5cd424a378144bd8c5bc5fb5d2e6e0de
+FileChecksum: MD5: 5a3c988165cd34a124e5ee1a04dbbcca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/utils/wait-for-it/wait-for-it.sh
+SPDXID: SPDXRef-item8205766
+FileChecksum: SHA1: 37fec924356b641b0ac4d0a91a73ec7af00982cd
+FileChecksum: MD5: 8c4df7b09e2a25ca3e64acdc4bc58ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/go.sum
+SPDXID: SPDXRef-item8205770
+FileChecksum: SHA1: 5e64cb2a09971e4f0a5edd8142d638d8c42387e0
+FileChecksum: MD5: b9fadef38e13e08a588580b1413837a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/docker-compose.yml
+SPDXID: SPDXRef-item8205772
+FileChecksum: SHA1: 9de69835eefd39e720faa120633158818ec17c42
+FileChecksum: MD5: 7531d5d98d9fd781046b2e1ada745714
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api/api/handlers/handlers_jobs_test.go
+SPDXID: SPDXRef-item8205781
+FileChecksum: SHA1: 65bc1120c4ae1ed99a7f035eecbc94e5ceabc5e3
+FileChecksum: MD5: 03c130f5b19e8ac9bbd1d838b04116e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/utils/wait-for-it/README.md
+SPDXID: SPDXRef-item8205819
+FileChecksum: SHA1: 53dec2ab5cd424a378144bd8c5bc5fb5d2e6e0de
+FileChecksum: MD5: 5a3c988165cd34a124e5ee1a04dbbcca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/utils/wait-for-it/wait-for-it.sh
+SPDXID: SPDXRef-item8205821
+FileChecksum: SHA1: 37fec924356b641b0ac4d0a91a73ec7af00982cd
+FileChecksum: MD5: 8c4df7b09e2a25ca3e64acdc4bc58ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/go.sum
+SPDXID: SPDXRef-item8205841
+FileChecksum: SHA1: 25cd9172e4aaa747124ed3765465836a92211f5b
+FileChecksum: MD5: d3fc361741054c30956ed3dcd129b876
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-api-testing/go.mod
+SPDXID: SPDXRef-item8205844
+FileChecksum: SHA1: 7864e74c9f54b1da4a64aaf7587ffa7880392233
+FileChecksum: MD5: 802d44f8aeea4a99f97f27b5a4e9cc1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/utils/wait-for-it/README.md
+SPDXID: SPDXRef-item8205857
+FileChecksum: SHA1: 53dec2ab5cd424a378144bd8c5bc5fb5d2e6e0de
+FileChecksum: MD5: 5a3c988165cd34a124e5ee1a04dbbcca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/utils/wait-for-it/wait-for-it.sh
+SPDXID: SPDXRef-item8205859
+FileChecksum: SHA1: 37fec924356b641b0ac4d0a91a73ec7af00982cd
+FileChecksum: MD5: 8c4df7b09e2a25ca3e64acdc4bc58ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/go.sum
+SPDXID: SPDXRef-item8205870
+FileChecksum: SHA1: 9bd91d5e6bc64340efb2bc528f1d365c342a05ab
+FileChecksum: MD5: 7ffc35d29cb3c3d1b77d92d1a811d422
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner-testing/go.mod
+SPDXID: SPDXRef-item8205873
+FileChecksum: SHA1: d23d1594618361f8542a33d28d856b8d98042b84
+FileChecksum: MD5: 443b36cff2c3d04dfea7e6d2ddaafff4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/utils/wait-for-it/README.md
+SPDXID: SPDXRef-item8205886
+FileChecksum: SHA1: 53dec2ab5cd424a378144bd8c5bc5fb5d2e6e0de
+FileChecksum: MD5: 5a3c988165cd34a124e5ee1a04dbbcca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/utils/wait-for-it/wait-for-it.sh
+SPDXID: SPDXRef-item8205888
+FileChecksum: SHA1: 37fec924356b641b0ac4d0a91a73ec7af00982cd
+FileChecksum: MD5: 8c4df7b09e2a25ca3e64acdc4bc58ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/pkg/status/status.pb.go
+SPDXID: SPDXRef-item8205892
+FileChecksum: SHA1: 3dae05a7106c5a3dd8dd72b36fd80aba42801c6a
+FileChecksum: MD5: 4a8839b3b7fad7c772007c15ad3c329a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/pkg/agent/agent.pb.go
+SPDXID: SPDXRef-item8205895
+FileChecksum: SHA1: 293eac8e056878c95a81730fbb217509bac4bcaf
+FileChecksum: MD5: d575c65758edcfc00c3427bc821e4fab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/go.sum
+SPDXID: SPDXRef-item8205897
+FileChecksum: SHA1: dde1c7990156aebe108d6df282e530a01f6c9c75
+FileChecksum: MD5: 15c8dade51d93ee8bcf464419e1027c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-jobrunner/go.mod
+SPDXID: SPDXRef-item8205901
+FileChecksum: SHA1: 3c44cace97321d0006290ce8aa055bf348641b75
+FileChecksum: MD5: ec7b7fb930effacaa451cddb9db13b7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/go.sum
+SPDXID: SPDXRef-item8205940
+FileChecksum: SHA1: 28173a693e93f381d85f6cfa4ef02d054cd01df9
+FileChecksum: MD5: 2a819924a72f65cebc2815ddfd0bac14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: peridot-db/go.mod
+SPDXID: SPDXRef-item8205942
+FileChecksum: SHA1: 5222750a0e7da172e150e7caa3e105b0ea077833
+FileChecksum: MD5: 57587d739468d28a5420fef376b583ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
